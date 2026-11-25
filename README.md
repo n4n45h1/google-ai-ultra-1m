@@ -15,3 +15,8 @@ iPhoneもしくはiPad(androidは対応していません)
 9. Requestsにいき、左下の▶︎マークを選択　VPNの構成を許可する　画面の上のどこかにVPNと表示されれば成功
 10. Google oneもしくはGeminiアプリを開き、アップグレードを押し、Ultraの5xを選択
 11. 購入時に1ヶ月無料等が出れば成功です
+
+参考にしたもの
+https://github.com/crhywun/g1-acq
+https://github.com/Dgkncn/g1-acq-plus
+/video/1K86KBRRF_3QEG2T.mov
