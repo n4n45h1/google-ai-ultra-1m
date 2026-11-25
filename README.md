@@ -11,7 +11,7 @@ ProxyPin を使って `one.google.com` のレスポンスを書き換え、Googl
 
 下のボタンから ProxyPin 用のリライト設定ファイルをダウンロードできます(手順6で使用します)。
 
-[![Download Google-ai-ultra.config](https://img.shields.io/badge/download-Google--ai--ultra.config-blue?logo=github)](https://github.com/n4n45h1/google-ai-ultra-1m/raw/main/Google-ai-ultra.config)
+[![Download Google-ai-ultra.config](https://img.shields.io/badge/download-Google--ai--ultra.config-blue?logo=github)](https://github.com/n4n45h1/google-ai-ultra-1m/raw/refs/heads/main/Google-ai-ultra.config)
 
 ## セットアップ手順
 
