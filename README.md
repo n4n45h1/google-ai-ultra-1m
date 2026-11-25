@@ -1,10 +1,10 @@
-# Google AI Ultra 1ヶ月無料ガイド(教育目的)
+# Google AI Ultra 1ヶ月無料ガイド
 
 ProxyPin を使って `one.google.com` のレスポンスを書き換え、Google AI Ultra プランの「1ヶ月間無料トライアル」を表示させるものです。
 
 > HTTPS プロキシやリクエスト書き換えの仕組みを学ぶための学習目的のガイドです。自己責任でご利用ください。
 >
-> 役に立ったら [⭐️ スター](https://github.com/n4n45h1/google-ai-ultra-1m/stargazers) をつけてもらえるとありがたいです。
+### 役に立ったら、**スター**をつけてもらえるとありがたいです。
 
 ## 必要なもの
 
