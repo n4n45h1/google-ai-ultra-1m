@@ -6,7 +6,12 @@ ProxyPin を使って `one.google.com` のレスポンスを書き換え、Googl
 
 - iPhone または iPad(Android は対応していません)
 - 脱獄は不要
-- このリポジトリの [Google-ai-ultra.config](./Google-ai-ultra.config)(ProxyPin 用のリライト設定)
+
+## Google-ai-ultra.config をダウンロード
+
+下のボタンから ProxyPin 用のリライト設定ファイルをダウンロードできます(手順6で使用します)。
+
+[![Download Google-ai-ultra.config](https://img.shields.io/badge/download-Google--ai--ultra.config-blue?logo=github)](https://github.com/n4n45h1/google-ai-ultra-1m/raw/main/Google-ai-ultra.config)
 
 ## セットアップ手順
 
@@ -72,7 +77,7 @@ ProxyPin を開き、**Settings → HTTPS Proxy** を選択します。
 
    ![Request Rewrite を選択](img/IMG_2784.jpeg)
 
-2. **Enable Request Rewrite** をオンにし、**Import** からこのリポジトリの `Google-ai-ultra.config` を読み込みます。
+2. **Enable Request Rewrite** をオンにし、**Import** から上のボタンでダウンロードした `Google-ai-ultra.config` を選択します。
    `g1-acq`(URL: `https://one.google.com/ai?*`、Action: response update)が登録されていれば完了です。
 
    ![config インポート完了](img/IMG_2785.png)
