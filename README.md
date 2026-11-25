@@ -115,3 +115,7 @@ ProxyPin を開き、**Settings → HTTPS Proxy** を選択します。
 - https://github.com/crhywun/g1-acq
 - https://github.com/Dgkncn/g1-acq-plus
 - デモ動画: [video/1K86KBRRF_3QEG2T.mov](./video/1K86KBRRF_3QEG2T.mov)
+
+---
+
+よかったら [⭐️ Star](https://github.com/n4n45h1/google-ai-ultra-1m/stargazers) を押してね!
