@@ -3,6 +3,8 @@
 ProxyPin を使って `one.google.com` のレスポンスを書き換え、Google AI Ultra プランの「1ヶ月間無料トライアル」を表示させるものです。
 
 > HTTPS プロキシやリクエスト書き換えの仕組みを学ぶための学習目的のガイドです。自己責任でご利用ください。
+>
+> 役に立ったら [⭐️ スター](https://github.com/n4n45h1/google-ai-ultra-1m/stargazers) をつけてもらえるとありがたいです。
 
 ## 必要なもの
 
@@ -116,6 +118,3 @@ ProxyPin を開き、**Settings → HTTPS Proxy** を選択します。
 - https://github.com/Dgkncn/g1-acq-plus
 - デモ動画: [video/1K86KBRRF_3QEG2T.mov](./video/1K86KBRRF_3QEG2T.mov)
 
----
-
-よかったら [⭐️ Star](https://github.com/n4n45h1/google-ai-ultra-1m/stargazers) を押してね!
